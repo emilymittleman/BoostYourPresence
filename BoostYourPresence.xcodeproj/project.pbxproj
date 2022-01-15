@@ -18,6 +18,7 @@
 		5D42C4D92790E15500559469 /* data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D42C4D82790E15500559469 /* data.swift */; };
 		5D42C4DC2790E22800559469 /* SocialMedia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D42C4DB2790E22800559469 /* SocialMedia.swift */; };
 		5D42C4DE2790E6F700559469 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D42C4DD2790E6F700559469 /* HomeVC.swift */; };
+		F2280E342790E2630082D408 /* Services.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2280E332790E2630082D408 /* Services.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		5D42C4D82790E15500559469 /* data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = data.swift; sourceTree = "<group>"; };
 		5D42C4DB2790E22800559469 /* SocialMedia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialMedia.swift; sourceTree = "<group>"; };
 		5D42C4DD2790E6F700559469 /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
+		F2280E332790E2630082D408 /* Services.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 		5D42C4BE2790D64B00559469 /* BoostYourPresence */ = {
 			isa = PBXGroup;
 			children = (
+				F2280E332790E2630082D408 /* Services.swift */,
 				5D42C4BF2790D64B00559469 /* AppDelegate.swift */,
 				5D42C4C12790D64B00559469 /* SceneDelegate.swift */,
 				5D42C4D32790DFE200559469 /* HomeScreen */,
@@ -173,6 +176,7 @@
 				5D42C4DE2790E6F700559469 /* HomeVC.swift in Sources */,
 				5D42C4D92790E15500559469 /* data.swift in Sources */,
 				5D42C4D72790E0E300559469 /* SocialMediaRow.swift in Sources */,
+				F2280E342790E2630082D408 /* Services.swift in Sources */,
 				5D42C4C02790D64B00559469 /* AppDelegate.swift in Sources */,
 				5D42C4C22790D64B00559469 /* SceneDelegate.swift in Sources */,
 				5D42C4DC2790E22800559469 /* SocialMedia.swift in Sources */,

@@ -12,6 +12,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        let services = Services()
+        
+        services.addOrder(link: "https://www.instagram.com/p/BNx6uASAZ6m/", quantity: "25")
     }
 
 
